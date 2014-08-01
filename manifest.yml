@@ -1,0 +1,6 @@
+---
+#UserDBTest manifest
+applications:
+- name: UserDBTest
+  memory: 512M
+  command: npm start
